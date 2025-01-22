@@ -4,3 +4,5 @@
  # How to Run
 Make sure you have Python 3 installed.  
 Run the file `project_imc.py` in the terminal with the command:
+
+![Project Demo](assets/IMC.gif)
