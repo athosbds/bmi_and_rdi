@@ -97,4 +97,4 @@ if multiplier > 0:
         idr = calculate_idr_woman * multiplier
     print(f'Sua Ingestão Diária Recomendada é de {idr:.2f} calorias por dia.')
 else:
-    print('Não foi possível calcular a IDR devido a entradas inválidas.')
+    print('Não foi possível calcular o seu IDR.')
