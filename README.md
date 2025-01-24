@@ -6,3 +6,8 @@ Make sure you have Python 3 installed.
 Run the file `project_imc.py` in the terminal with the command:
 
 ![Project Demo](assets/IMC.gif)
+
+# Explain BMI and RDI
+![Project Demo](assets/imc.jpg)
+
+![Project Demo](assets/idr.jpg)
